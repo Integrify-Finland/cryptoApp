@@ -1,75 +1,37 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center"><Crypto application></h1>
 
-<p align="center"><project-description></p>
+<p align="center"><Crypto application to see the price of coins, track the chart of coins and using the live chart to update the price of coins >></p>
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/sontrinhgit/cryptoApp.git "Crypto App Repo")
 
-- [Live](<Homepage url> "Live View")
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+<img src="./assets/Coins1.PNG" alt="HomeScreen" width="240" height="390">
+<img src="./assets/Coins2.PNG" alt="MarketScreen" width="240" height="390">
+<img src="./assets/Coins3.PNG" alt="ProfileScreen" width="240" height="390">
 
-![](/screenshots/2.png)
 
-![](/screenshots/3.png)
 
-## Available Commands
 
-In the project directory, you can run:
-
-### `npm start" : "react-scripts start"`,
-
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### `"npm run build": "react-scripts build"`,
-
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
-### `"npm run test": "react-scripts test"`,
-
-Launches the test runner in the interactive watch mode.
-
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
-
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
-
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
 
 ## Built With
 
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
+- React Native
+- React Redux
+- React Native Chart Kit
+- Axios
+- Redux thunk 
 
-## Future Updates
 
-- [ ] Reliable Storage
 
 ## Author
 
-**Rohit Jain**
+**Son Trinh**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Profile](https://github.com/sontrinhgit "Son Trinh")
 
-## 🤝 Support
 
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
